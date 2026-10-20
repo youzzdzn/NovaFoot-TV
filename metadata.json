@@ -1,0 +1,10 @@
+{
+  "name": "NovaFoot - Streaming Football & Diffusions en Direct",
+  "description": "Plateforme moderne de retransmission de football avec diffusions programmées, chat en direct, écrans de situation et lecteur recadré haute définition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
